@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Darkwood: O Enigma da Floresta</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bem-vindo a Darkwood: O Enigma da Floresta</h1>
+        <p id="introducao">
+            Em Darkwood: O Enigma da Floresta, os jogadores entram em uma aventura de suspense e escolhas estratégicas, inspirada no universo sombrio de Darkwood. Sem memórias, o jogador deve responder perguntas e fazer decisões que podem levá-lo à saída da floresta ou a destinos sinistros. Com cada resposta, o caminho se desdobra, revelando segredos ou novos perigos. Prepare-se para testar seu conhecimento e enfrentar a escuridão que envolve Darkwood.
+        </p>
+        <button class="btn" onclick="iniciarJogo()">Começar o jogo</button>
+        <div id="perguntaContainer" style="display: none;">
+            <h2 id="pergunta"></h2>
+            <div id="opcoes"></div>
+            <button id="proxima" style="display: none;" onclick="proximaPergunta()">Próxima Pergunta</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
