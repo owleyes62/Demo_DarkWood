@@ -1,0 +1,55 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: white; /* Cor do texto */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('image/cabana.png'); /* Substitua pelo caminho da sua imagem */
+    background-size: cover; /* Faz a imagem cobrir toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    text-align: center;
+}
+
+.container {
+    width: 100%; /* Largura total */
+    height: 100%; /* Altura total */
+    background-color: rgba(0, 0, 0, 0.6); /* Fundo preto translúcido */
+    padding: 20px 30px;
+    border-radius: 10px; /* Bordas arredondadas */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5); /* Sombra para destaque */
+    max-width: 600px; /* Limita a largura */
+}
+
+
+h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+p {
+    font-size: 1.5em;
+    max-width: 600px; /* Limita a largura do texto */
+    margin: 20px 20px; /* Margens laterais */
+}
+
+button {
+    margin-top: 30px;
+    padding: 10px 20px;
+    font-size: 1.2em;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7); /* Fundo do botão com transparência */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: rgba(0, 0, 0, 0.9); /* Escurece o botão ao passar o mouse */
+}

@@ -35,28 +35,32 @@ function mostrarPergunta() {
     document.getElementById('proxima').style.display = 'none'; // Esconde o botão de próxima
 }
 
-function selecionarOpcao(opcaoEscolhida) {
-    const opcaoSelecionada = perguntas[perguntaAtual].opcoes[opcaoEscolhida];
-    const resultado = opcaoSelecionada.resultado;
-    console.log(resultado);
-    
+function selecionarOpcao(opcaoEscolhida) { 
+    const opcaoSelecionada = perguntas[perguntaAtual].opcoes[opcaoEscolhida]; 
+    const resultado = opcaoSelecionada.resultado; 
+    console.log(resultado); 
 
-    // Verifica se a opção leva ao fim do jogo
-    if (opcaoSelecionada.mensagemFinal) {
-        // Armazena a mensagem final no localStorage
-        localStorage.setItem('mensagemFinal', opcaoSelecionada.mensagemFinal);
-        window.location.href = 'final.html'; // Redireciona para a página final
-    } else {
-        // Se não houver próxima pergunta, finaliza o jogo
-        const proximaPergunta = opcaoSelecionada.proximaPergunta;
-        if (proximaPergunta !== null) {
-            perguntaAtual = proximaPergunta; // Atualiza para a próxima pergunta
-            mostrarPergunta(); // Mostra a próxima pergunta
+    // Verifica se a opção leva ao fim do jogo 
+    if (opcaoSelecionada.mensagemFinal) { 
+        // Armazena a mensagem final no localStorage 
+        if (opcaoSelecionada.mensagemFinal.includes("Bem-vindo")) {
+            localStorage.setItem('mensagemFinal', opcaoSelecionada.mensagemFinal); 
+            window.location.href = 'finalzz.html'; // Redireciona para a página finalzz
         } else {
-            alert("Fim do jogo!");
-            window.location.href = 'final.html'; // Redireciona para a página final
+            localStorage.setItem('mensagemFinal', opcaoSelecionada.mensagemFinal); 
+            window.location.href = 'final.html'; // Redireciona para a página final padrão
         }
-    }
+    } else { 
+        // Se não houver próxima pergunta, finaliza o jogo 
+        const proximaPergunta = opcaoSelecionada.proximaPergunta; 
+        if (proximaPergunta !== null) { 
+            perguntaAtual = proximaPergunta; // Atualiza para a próxima pergunta 
+            mostrarPergunta(); // Mostra a próxima pergunta 
+        } else { 
+            alert("Fim do jogo! "); 
+            window.location.href = 'final.html'; // Redireciona para a página final padrão 
+        } 
+    } 
 }
 
 // Iniciar o jogo quando a página for carregada
