@@ -1,6 +1,6 @@
 [
     {
-        "pergunta": "0 [Dia 1]\n\n Você acorda em uma clareira iluminada pelo sol, mas cercada por árvores densas e misteriosas. Sem memória de quem é, ou aonde esta!\n\n Oque você faz?",
+        "pergunta": " [Dia 1]\n\n Você acorda em uma clareira iluminada pelo sol, mas cercada por árvores densas e misteriosas. Sem memória de quem é, ou aonde esta!\n\n Oque você faz?",
         "opcoes": [
             {
                 "texto": "Tenta encontrar um caminho para sair do meios das arvores.",
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "pergunta": " 1 [Fica parado, tentando se lembrar de algo.]\n\n Você não se lembra de muito mas tem visões de um helicoptero e enquato pensava escuta um sussurro no vento: \"Você não deveria estar aqui…\" Uma sensação de perigo iminente toma conta de você. \n\n O que você faz?",
+        "pergunta": "  [Fica parado, tentando se lembrar de algo.]\n\n Você não se lembra de muito mas tem visões de um helicoptero e enquato pensava escuta um sussurro no vento: \"Você não deveria estar aqui…\" Uma sensação de perigo iminente toma conta de você. \n\n O que você faz?",
         "opcoes": [
             {
                 "texto": "Corre para longe",
@@ -26,7 +26,7 @@
         ]
     },
     {
-        "pergunta": " 2 [Corre para longe]\n\n Você corre desesperado, ouvindo sons atrás de si, como se algo o perseguisse. O coração dispara e as sombras parecem ganhar vida ao seu redor. De repente, você tropeça em uma raiz e cai. Antes que consiga se levantar, vê uma figura alta e sombria à sua frente, com olhos vermelhos brilhantes, observando em silêncio.\n\n O que você faz?",
+        "pergunta": "  [Corre para longe]\n\n Você corre desesperado, ouvindo sons atrás de si, como se algo o perseguisse. O coração dispara e as sombras parecem ganhar vida ao seu redor. De repente, você tropeça em uma raiz e cai. Antes que consiga se levantar, vê uma figura alta e sombria à sua frente, com olhos vermelhos brilhantes, observando em silêncio.\n\n O que você faz?",
         "opcoes": [
             {
                 "texto": "Tenta fugir para outro lado, ignorando a figura.",
@@ -40,7 +40,7 @@
         ]
     },
     {
-        "pergunta": "3 [Fica imóvel, esperando que a figura desapareça]\n\nVocê permanece parado, congelado de medo. A figura se inclina, seus olhos vermelhos brilhando enquanto estende a mão em sua direção. O frio é intenso. De repente, um grito ecoa pela floresta. A figura recua e desaparece em névoa. O grito se aproxima, e você percebe duas opções:\n\nO que você faz?",
+        "pergunta": " [Fica imóvel, esperando que a figura desapareça]\n\nVocê permanece parado, congelado de medo. A figura se inclina, seus olhos vermelhos brilhando enquanto estende a mão em sua direção. O frio é intenso. De repente, um grito ecoa pela floresta. A figura recua e desaparece em névoa. O grito se aproxima, e você percebe duas opções:\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Seguir o caminho à esquerda, apesar da névoa.",
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "pergunta": "4 [Tenta encontrar um caminho para sair do meio das árvores]\n\nCaminhando pela floresta, você percebe uma trilha de pegadas humanas frescas indo em direção ao leste.\n\nO que você faz?",
+        "pergunta": " [Tenta encontrar um caminho para sair do meio das árvores]\n\nCaminhando pela floresta, você percebe uma trilha de pegadas humanas frescas indo em direção ao leste.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Seguir as pegadas para ver aonde elas levam.",
@@ -68,7 +68,7 @@
         ]
     },
     {
-        "pergunta": "5 [Evita a trilha; pode ser perigoso seguir um desconhecido.]\n\nA floresta se torna mais densa, e a luz começa a falhar, criando sombras inquietantes. Conforme avança, o som da floresta se torna mais sutil, como se estivesse se preparando para algo. Você caminha cautelosamente até encontrar uma clareira iluminada, com um pequeno lago. Mas algo não parece certo; um arrepio percorre sua nuca, e você nota uma figura sombria entre as árvores, com olhos brilhantes.\n\nO que você faz?",
+        "pergunta": " [Evita a trilha; pode ser perigoso seguir um desconhecido.]\n\nA floresta se torna mais densa, e a luz começa a falhar, criando sombras inquietantes. Conforme avança, o som da floresta se torna mais sutil, como se estivesse se preparando para algo. Você caminha cautelosamente até encontrar uma clareira iluminada, com um pequeno lago. Mas algo não parece certo; um arrepio percorre sua nuca, e você nota uma figura sombria entre as árvores, com olhos brilhantes.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Tenta se aproximar da figura.",
@@ -81,7 +81,7 @@
         ]
     },
     {
-        "pergunta": "6 [Tenta se aproximar da figura]\n\nVocê avança lentamente e pergunta:\n— O que você quer?\n\nA figura se vira, revelando um rosto distorcido, mas não ataca. Em vez disso, gesticula para que você a siga. Hesitante, você decide acompanhá-la até uma clareira iluminada. Um antigo altar de pedra se destaca no centro, cercado por objetos pessoais, incluindo uma fotografia desbotada.\n\nO que você faz?",
+        "pergunta": " [Tenta se aproximar da figura]\n\nVocê avança lentamente e pergunta:\n— O que você quer?\n\nA figura se vira, revelando um rosto distorcido, mas não ataca. Em vez disso, gesticula para que você a siga. Hesitante, você decide acompanhá-la até uma clareira iluminada. Um antigo altar de pedra se destaca no centro, cercado por objetos pessoais, incluindo uma fotografia desbotada.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Investiga o altar.",
@@ -95,7 +95,7 @@
         ]
     },
     {
-        "pergunta": "7 [Corre na direção oposta]\n\nVocê vira-se e corre, ouvindo passos rápidos atrás de você. Ao encontrar um tronco caído, se esconde e espera. A figura passa sem notar sua presença. Depois de se certificar que ela foi embora, você se levanta e decide seguir. Você avista a cabana à distância, com a porta entreaberta, e sabe que precisa estar preparado para o que vem a seguir.\n\nO que você faz?",
+        "pergunta": " [Corre na direção oposta]\n\nVocê vira-se e corre, ouvindo passos rápidos atrás de você. Ao encontrar um tronco caído, se esconde e espera. A figura passa sem notar sua presença. Depois de se certificar que ela foi embora, você se levanta e decide seguir. Você avista a cabana à distância, com a porta entreaberta, e sabe que precisa estar preparado para o que vem a seguir.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Se aproxima e observa a cabana para tentar descobrir quem está lá.",
@@ -108,7 +108,7 @@
         ]
     },
     {
-        "pergunta": "8 [Investiga o altar]\n\nVocê se aproxima cautelosamente do altar. Ao examinar os objetos, percebe que são itens pessoais de pessoas que desapareceram na floresta: um relógio, uma pulseira e uma pequena boneca de pano. Uma sensação de tristeza e nostalgia invade você. Enquanto toca na fotografia desbotada, uma visão passageira de um grupo de amigos rindo na floresta surge em sua mente. De repente, um frio percorre sua espinha e você ouve um sussurro fraco.\n\nO que você faz?",
+        "pergunta": " [Investiga o altar]\n\nVocê se aproxima cautelosamente do altar. Ao examinar os objetos, percebe que são itens pessoais de pessoas que desapareceram na floresta: um relógio, uma pulseira e uma pequena boneca de pano. Uma sensação de tristeza e nostalgia invade você. Enquanto toca na fotografia desbotada, uma visão passageira de um grupo de amigos rindo na floresta surge em sua mente. De repente, um frio percorre sua espinha e você ouve um sussurro fraco.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Tenta entender o sussurro.",
@@ -123,7 +123,7 @@
         ]
     },
     {
-        "pergunta": "9 [Segue as pegadas para ver aonde elas levam]\n\nVocê segue as pegadas frescas que levam para o leste, onde a vegetação se torna densa e o ambiente silencioso. Após alguns minutos, encontra uma cabana isolada, parcialmente oculta pela vegetação. Embora pareça abandonada, fumaça sai da chaminé, sugerindo que alguém está lá. A porta está entreaberta, convidando à entrada, mas você hesita, sem saber o que pode encontrar dentro.\n\nO que você faz?",
+        "pergunta": " [Segue as pegadas para ver aonde elas levam]\n\nVocê segue as pegadas frescas que levam para o leste, onde a vegetação se torna densa e o ambiente silencioso. Após alguns minutos, encontra uma cabana isolada, parcialmente oculta pela vegetação. Embora pareça abandonada, fumaça sai da chaminé, sugerindo que alguém está lá. A porta está entreaberta, convidando à entrada, mas você hesita, sem saber o que pode encontrar dentro.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Se aproxima e observa a cabana para tentar descobrir quem está lá.",
@@ -136,7 +136,7 @@
         ]
     }, 
     {
-        "pergunta": "10 [Evita a cabana e segue em frente]\n\nVocê evita a cabana e segue em frente. A floresta se adensa ao seu redor, as árvores inclinando-se sobre você. O chão é irregular, coberto por raízes e folhas secas. Conforme avança, a luz do dia diminui e a atmosfera se torna pesada. Os sussurros aumentam, e você sente que algo está observando. O coração acelera, e você começa a andar mais rápido.\n\nDe repente, uma clareira surge à frente. O que você faz?",
+        "pergunta": " [Evita a cabana e segue em frente]\n\nVocê evita a cabana e segue em frente. A floresta se adensa ao seu redor, as árvores inclinando-se sobre você. O chão é irregular, coberto por raízes e folhas secas. Conforme avança, a luz do dia diminui e a atmosfera se torna pesada. Os sussurros aumentam, e você sente que algo está observando. O coração acelera, e você começa a andar mais rápido.\n\nDe repente, uma clareira surge à frente. O que você faz?",
         "opcoes": [
             {
                 "texto": "Acelera em direção à clareira, buscando abrigo.",
@@ -149,7 +149,7 @@
         ]
     },
     {
-        "pergunta": "11 [Tenta se esconder atrás de uma árvore e observar]\n\nEscondido atrás de uma árvore larga, você observa a criatura que se aproxima, seu coração acelerando. Ela para, inclinando a cabeça, como se estivesse te procurando. Seus olhos brilham em um intenso tom vermelho, hipnotizando você. A criatura fareja o ar lentamente, aumentando a tensão.\n\nDe repente, ela se vira e se afasta, desaparecendo na escuridão da floresta. Você solta um suspiro de alívio, mas a inquietante sensação de que algo está errado persiste.\n\nO que você faz?",
+        "pergunta": " [Tenta se esconder atrás de uma árvore e observar]\n\nEscondido atrás de uma árvore larga, você observa a criatura que se aproxima, seu coração acelerando. Ela para, inclinando a cabeça, como se estivesse te procurando. Seus olhos brilham em um intenso tom vermelho, hipnotizando você. A criatura fareja o ar lentamente, aumentando a tensão.\n\nDe repente, ela se vira e se afasta, desaparecendo na escuridão da floresta. Você solta um suspiro de alívio, mas a inquietante sensação de que algo está errado persiste.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Sai de trás da árvore e explora a área.",
@@ -164,7 +164,7 @@
         ]
     },
     {
-        "pergunta": "12 [Acelera em direção à clareira, buscando abrigo]\n\nVocê chega à clareira e encontra um acampamento abandonado: uma fogueira apagada e uma mochila largada no chão. O lugar parece ter sido usado há pouco tempo, mas o silêncio ao redor é desconcertante.\n\nDe repente, um som vindo da floresta faz você se virar. Uma figura alta, com olhos brilhantes e movimentos inquietantes, surge entre as árvores, avançando em sua direção.\n\nO coração dispara, e você sabe que precisa agir imediatamente.\n\nO que você faz?",
+        "pergunta": " [Acelera em direção à clareira, buscando abrigo]\n\nVocê chega à clareira e encontra um acampamento abandonado: uma fogueira apagada e uma mochila largada no chão. O lugar parece ter sido usado há pouco tempo, mas o silêncio ao redor é desconcertante.\n\nDe repente, um som vindo da floresta faz você se virar. Uma figura alta, com olhos brilhantes e movimentos inquietantes, surge entre as árvores, avançando em sua direção.\n\nO coração dispara, e você sabe que precisa agir imediatamente.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Corre para a direita, em direção a uma trilha estreita.",
@@ -177,7 +177,7 @@
         ]
     },
     {
-        "pergunta": "13 [Tenta escalar uma árvore próxima para se esconder]\n\nVocê decide escalar uma árvore próxima para se esconder. Com adrenalina, avança em direção a um tronco robusto e começa a subir, suas mãos buscando segurança nos galhos.\n\nQuando se acomoda em um galho grosso, olha para baixo e vê a criatura se aproximando. Ela é alta e torcida, com olhos brilhantes que a fixam. Você se encolhe, mas a criatura parece perceber sua presença, levantando a cabeça.\n\nO que você faz?",
+        "pergunta": " [Tenta escalar uma árvore próxima para se esconder]\n\nVocê decide escalar uma árvore próxima para se esconder. Com adrenalina, avança em direção a um tronco robusto e começa a subir, suas mãos buscando segurança nos galhos.\n\nQuando se acomoda em um galho grosso, olha para baixo e vê a criatura se aproximando. Ela é alta e torcida, com olhos brilhantes que a fixam. Você se encolhe, mas a criatura parece perceber sua presença, levantando a cabeça.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Fica imóvel e espera que a criatura vá embora.",
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "pergunta": "14 [Corre para a direita, em direção a uma trilha estreita]\n\nVocê corre pela trilha estreita, os galhos arranhando sua pele enquanto tenta se distanciar da criatura. O som de passos atrás de você cresce, cada vez mais próximo. Sua respiração está ofegante quando, finalmente, chega a uma bifurcação.\n\nÀ esquerda, um riacho que pode oferecer abrigo, mas o barulho da água pode atrair atenção. À direita, uma trilha coberta por vegetação densa, que pode esconder você, mas é difícil de atravessar.\n\nO que você faz?",
+        "pergunta": " [Corre para a direita, em direção a uma trilha estreita]\n\nVocê corre pela trilha estreita, os galhos arranhando sua pele enquanto tenta se distanciar da criatura. O som de passos atrás de você cresce, cada vez mais próximo. Sua respiração está ofegante quando, finalmente, chega a uma bifurcação.\n\nÀ esquerda, um riacho que pode oferecer abrigo, mas o barulho da água pode atrair atenção. À direita, uma trilha coberta por vegetação densa, que pode esconder você, mas é difícil de atravessar.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Corre em direção ao riacho.",
@@ -207,7 +207,7 @@
         ]
     },
     {
-        "pergunta": "15 [Para e tenta identificar a origem do sussurro]\n\nA voz ecoa na sua mente, e você decide ficar parado, tentando entender melhor o que está acontecendo. O vento parece se acalmar, e você concentra todos os seus sentidos. Aos poucos, o sussurro se torna mais claro, como se estivesse vindo de algum lugar próximo.\n\nDe repente, uma figura escura aparece entre as árvores, observando você. Não dá para ver com clareza, mas há algo incomum sobre ela. O medo aumenta, mas ao mesmo tempo, você sente que essa figura talvez tenha respostas para o que está acontecendo.\n\nA figura começa a se mover em sua direção, com passos lentos e pesados. A figura fica parada, como se aguardasse que você tomasse a próxima ação.\n\nO que você faz?",
+        "pergunta": " [Para e tenta identificar a origem do sussurro]\n\nA voz ecoa na sua mente, e você decide ficar parado, tentando entender melhor o que está acontecendo. O vento parece se acalmar, e você concentra todos os seus sentidos. Aos poucos, o sussurro se torna mais claro, como se estivesse vindo de algum lugar próximo.\n\nDe repente, uma figura escura aparece entre as árvores, observando você. Não dá para ver com clareza, mas há algo incomum sobre ela. O medo aumenta, mas ao mesmo tempo, você sente que essa figura talvez tenha respostas para o que está acontecendo.\n\nA figura começa a se mover em sua direção, com passos lentos e pesados. A figura fica parada, como se aguardasse que você tomasse a próxima ação.\n\nO que você faz?",
         "opcoes": [
             {
                 "texto": "Aproxima-se da figura, tentando descobrir quem ou o que ela é.",
@@ -220,7 +220,7 @@
         ]
     },
     {
-        "pergunta": "16 [Se aproxima e observa a cabana para tentar descobrir quem está lá]\n\nVocê se aproxima da porta da cabana e, ao olhar por uma fenda, vê uma figura dentro. Ela é estranhamente parecida com você, mas coberta por musgo espesso e plantas que parecem ter se entrelaçado em seu corpo de forma grotesca. O musgo cobre sua pele, deixando apenas os olhos visíveis, que refletem uma escuridão profunda e vazia.\n\nA figura se move lentamente até você, sem pressa, e com um olhar fixo. Quando chega à porta, ela fala em voz baixa e grave:\n\n— A floresta é perigosa à noite. Esta cabana é um dos poucos lugares seguros. Não saia quando escurecer.\n\nEla estende a mão, entregando um mapa. Suas palavras são curtas, mas carregadas de um aviso:\n\n— Siga este caminho. Não se arrisque fora da cabana.\n\nSem esperar uma resposta, a figura dá meia-volta e começa a caminhar em direção à escuridão da floresta, sumindo entre as árvores.\n\nA porta se fecha lentamente atrás dela, e o silêncio toma conta da cabana. Você agora segura o mapa em suas mãos. A noite está se aproximando rapidamente.",
+        "pergunta": " [Se aproxima e observa a cabana para tentar descobrir quem está lá]\n\nVocê se aproxima da porta da cabana e, ao olhar por uma fenda, vê uma figura dentro. Ela é estranhamente parecida com você, mas coberta por musgo espesso e plantas que parecem ter se entrelaçado em seu corpo de forma grotesca. O musgo cobre sua pele, deixando apenas os olhos visíveis, que refletem uma escuridão profunda e vazia.\n\nA figura se move lentamente até você, sem pressa, e com um olhar fixo. Quando chega à porta, ela fala em voz baixa e grave:\n\n— A floresta é perigosa à noite. Esta cabana é um dos poucos lugares seguros. Não saia quando escurecer.\n\nEla estende a mão, entregando um mapa. Suas palavras são curtas, mas carregadas de um aviso:\n\n— Siga este caminho. Não se arrisque fora da cabana.\n\nSem esperar uma resposta, a figura dá meia-volta e começa a caminhar em direção à escuridão da floresta, sumindo entre as árvores.\n\nA porta se fecha lentamente atrás dela, e o silêncio toma conta da cabana. Você agora segura o mapa em suas mãos. A noite está se aproximando rapidamente.",
         "opcoes": [
             {
                 "texto": "A cabana",
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "pergunta": "17 [Aproxima-se da figura, tentando descobrir quem ou o que ela é]\n\nCom cautela, você se aproxima da figura que parece esperá-lo. Sua respiração acelera, e, ao se aproximar, percebe que a criatura é uma versão de si mesmo, esculpida em musgo, galhos e folhas, como se fosse parte da floresta.\n\nAntes que você possa falar, a figura levanta a mão e uma voz profunda e rouca ecoa pela floresta: — Você está perdido... mas ainda pode sobreviver.\n\nEla entrega a você um pedaço de papel velho, um mapa simples com marcas que indicam um caminho através da floresta, levando a uma cabana desenhada com pressa.\n\n— Siga este mapa — diz a figura. — Chegue à cabana antes que o sol se ponha. Quando estiver lá, não saia, não importa o que ouça.\n\nA luz esverdeada em seus olhos brilha intensamente enquanto ela dá o aviso, sua voz carregada de urgência. Então, antes que você possa reagir, a figura desaparece nas sombras das árvores. Você observa o mapa em suas mãos, sentindo a intensa sensação de estar sendo observado.\n\nCom o sol se pondo e tingindo o céu de laranja, você percebe que a noite se aproxima rapidamente.",
+        "pergunta": " [Aproxima-se da figura, tentando descobrir quem ou o que ela é]\n\nCom cautela, você se aproxima da figura que parece esperá-lo. Sua respiração acelera, e, ao se aproximar, percebe que a criatura é uma versão de si mesmo, esculpida em musgo, galhos e folhas, como se fosse parte da floresta.\n\nAntes que você possa falar, a figura levanta a mão e uma voz profunda e rouca ecoa pela floresta: — Você está perdido... mas ainda pode sobreviver.\n\nEla entrega a você um pedaço de papel velho, um mapa simples com marcas que indicam um caminho através da floresta, levando a uma cabana desenhada com pressa.\n\n— Siga este mapa — diz a figura. — Chegue à cabana antes que o sol se ponha. Quando estiver lá, não saia, não importa o que ouça.\n\nA luz esverdeada em seus olhos brilha intensamente enquanto ela dá o aviso, sua voz carregada de urgência. Então, antes que você possa reagir, a figura desaparece nas sombras das árvores. Você observa o mapa em suas mãos, sentindo a intensa sensação de estar sendo observado.\n\nCom o sol se pondo e tingindo o céu de laranja, você percebe que a noite se aproxima rapidamente.",
         "opcoes": [
             {
                 "texto": "A cabana",
@@ -239,7 +239,7 @@
     },
     
     {
-        "pergunta": "18 [Fica parado e observa, esperando que a figura faça o próximo movimento]\n\nA figura entrega o mapa e desaparece nas sombras, deixando você sozinho na floresta. O papel em suas mãos mostra um caminho simples, levando diretamente até a cabana. Nas bordas, há símbolos estranhos que parecem marcar algo importante.\n\nO silêncio ao seu redor se torna opressor, e o ar parece mais denso. Você percebe que a floresta está diferente, como se estivesse viva e reagindo à sua presença. As árvores se fecham lentamente ao seu redor, formando barreiras naturais que tornam qualquer outro caminho impossível.\n\nOlhar para o mapa traz uma estranha sensação de urgência. É como se ele estivesse te chamando para segui-lo. As palavras da figura ecoam em sua mente:\n— Chegue à cabana antes que o sol se ponha.\n\nVocê sabe que precisa se mover. Ficar parado ou buscar outra rota não é uma opção.",
+        "pergunta": " [Fica parado e observa, esperando que a figura faça o próximo movimento]\n\nA figura entrega o mapa e desaparece nas sombras, deixando você sozinho na floresta. O papel em suas mãos mostra um caminho simples, levando diretamente até a cabana. Nas bordas, há símbolos estranhos que parecem marcar algo importante.\n\nO silêncio ao seu redor se torna opressor, e o ar parece mais denso. Você percebe que a floresta está diferente, como se estivesse viva e reagindo à sua presença. As árvores se fecham lentamente ao seu redor, formando barreiras naturais que tornam qualquer outro caminho impossível.\n\nOlhar para o mapa traz uma estranha sensação de urgência. É como se ele estivesse te chamando para segui-lo. As palavras da figura ecoam em sua mente:\n— Chegue à cabana antes que o sol se ponha.\n\nVocê sabe que precisa se mover. Ficar parado ou buscar outra rota não é uma opção.",
         "opcoes": [
             {
                 "texto": "A cabana.",
@@ -248,7 +248,7 @@
         ]
     },
     {
-        "pergunta": "19 Dentro da cabana, você encontra um ambiente simples e funcional, com janelas todas barricadas com tábuas de madeira. À frente da cabana, há um cortador de madeira. Na sala, uma mesa de construção com ferramentas espalhadas, como se alguém estivesse trabalhando ali recentemente. No canto da cozinha, um fogão de ferro, de onde saem canos que se espalham pela casa, liberando um gás misterioso. O cheiro é inconfundível, mas não parece ser imediatamente prejudicial.\n\nO quarto parece ser o local mais protegido da casa, com uma cama simples e uma lampadina própria, que fornece uma luz suave. Você decide ficar lá durante a noite. Você também percebe que há um gerador do lado de fora da cabana, conectado a cabos que entram pela parede, garantindo energia para as lâmpadas e outros equipamentos. O ambiente, embora modesto, parece ter sido montado para garantir a sobrevivência em meio à floresta.",
+        "pergunta": " Dentro da cabana, você encontra um ambiente simples e funcional, com janelas todas barricadas com tábuas de madeira. À frente da cabana, há um cortador de madeira. Na sala, uma mesa de construção com ferramentas espalhadas, como se alguém estivesse trabalhando ali recentemente. No canto da cozinha, um fogão de ferro, de onde saem canos que se espalham pela casa, liberando um gás misterioso. O cheiro é inconfundível, mas não parece ser imediatamente prejudicial.\n\nO quarto parece ser o local mais protegido da casa, com uma cama simples e uma lampadina própria, que fornece uma luz suave. Você decide ficar lá durante a noite. Você também percebe que há um gerador do lado de fora da cabana, conectado a cabos que entram pela parede, garantindo energia para as lâmpadas e outros equipamentos. O ambiente, embora modesto, parece ter sido montado para garantir a sobrevivência em meio à floresta.",
         "opcoes": [
             {
                 "texto": "Noite 1",
@@ -257,7 +257,7 @@
         ]
     },
     {
-        "pergunta": "20 A noite caiu, e a escuridão na floresta é densa como nunca antes. No quarto, você está trancado, com um móvel pesado encostado contra a porta. O silêncio é absoluto, exceto pelo som ocasional de algo arranhando as paredes externas da cabana, como se a floresta tivesse ganhado vida.\n\nDe repente, você escuta um som distante vindo da cozinha, algo caindo no chão. É baixo, mas o suficiente para gelar sua espinha. O gás misterioso que emana do fogão também parece estar mais forte, preenchendo o ambiente com um cheiro cada vez mais presente. Uma dúvida inquietante começa a rondar sua mente: o que está acontecendo lá fora?\n\nVocê permanecer no quarto?",
+        "pergunta": " A noite caiu, e a escuridão na floresta é densa como nunca antes. No quarto, você está trancado, com um móvel pesado encostado contra a porta. O silêncio é absoluto, exceto pelo som ocasional de algo arranhando as paredes externas da cabana, como se a floresta tivesse ganhado vida.\n\nDe repente, você escuta um som distante vindo da cozinha, algo caindo no chão. É baixo, mas o suficiente para gelar sua espinha. O gás misterioso que emana do fogão também parece estar mais forte, preenchendo o ambiente com um cheiro cada vez mais presente. Uma dúvida inquietante começa a rondar sua mente: o que está acontecendo lá fora?\n\nVocê permanecer no quarto?",
         "opcoes": [
             {
                 "texto": "Sim",
