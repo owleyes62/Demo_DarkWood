@@ -8,6 +8,7 @@ async function carregarPerguntas() {
 }
 
 function iniciarJogo() {
+    document.getElementById('bemvindo').style.display = 'none';
     document.getElementById('introducao').style.display = 'none';
     document.querySelector('.btn').style.display = 'none';
     document.getElementById('perguntaContainer').style.display = 'block';
@@ -35,37 +36,30 @@ function mostrarPergunta() {
 }
 
 function selecionarOpcao(opcaoEscolhida) {
-    const resultado = perguntas[perguntaAtual].opcoes[opcaoEscolhida].resultado;
+    const opcaoSelecionada = perguntas[perguntaAtual].opcoes[opcaoEscolhida];
+    const resultado = opcaoSelecionada.resultado;
     console.log(resultado);
     
-    // Verifica se o resultado contém "FIM"
-    if (resultado.includes("FIM")) {
-        window.location.href = 'final.html'
-        console.log("Fim do jogo!");
-    } else {
-        // Aqui você pode definir a lógica para a próxima pergunta
-        // Por exemplo, você pode ter uma estrutura que determina a próxima pergunta com base na escolha
-        if (opcaoEscolhida === 0) {
-            // Lógica para a opção 0
-            perguntaAtual = 1; // Mude para o índice da próxima pergunta desejada
-        } else if (opcaoEscolhida === 1) {
-            // Lógica para a opção 1
-            perguntaAtual = 2; // Mude para o índice da próxima pergunta desejada
-        }
 
-        // Verifica se ainda há perguntas
-        if (perguntaAtual < perguntas.length) {
-            mostrarPergunta();
+    // Verifica se a opção leva ao fim do jogo
+    if (opcaoSelecionada.mensagemFinal) {
+        // Armazena a mensagem final no localStorage
+        localStorage.setItem('mensagemFinal', opcaoSelecionada.mensagemFinal);
+        window.location.href = 'final.html'; // Redireciona para a página final
+    } else {
+        // Se não houver próxima pergunta, finaliza o jogo
+        const proximaPergunta = opcaoSelecionada.proximaPergunta;
+        if (proximaPergunta !== null) {
+            perguntaAtual = proximaPergunta; // Atualiza para a próxima pergunta
+            mostrarPergunta(); // Mostra a próxima pergunta
         } else {
-            alert("Você completou todas as perguntas!");
-            // Aqui você pode adicionar lógica para reiniciar o jogo ou redirecionar para outra página
+            alert("Fim do jogo!");
+            window.location.href = 'final.html'; // Redireciona para a página final
         }
     }
 }
-
 
 // Iniciar o jogo quando a página for carregada
 window.onload = () => {
     document.getElementById('iniciar').onclick = iniciarJogo;
 };
-

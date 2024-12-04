@@ -9,13 +9,20 @@
 <body>
     <div class="container">
         <h1>Fim da Aventura</h1>
-        <p id="resultado"></p>
+        <p id="resultado">Obrigado por jogar!</p> <!-- Mensagem padrão -->
         <button onclick="location.href='index.html'">Voltar ao Início</button>
     </div>
+
+    <script>
+        // Recupera a mensagem final do localStorage
+        const mensagemFinal = localStorage.getItem('mensagemFinal');
+
+        // Verifica se existe uma mensagem final armazenada
+        if (mensagemFinal) {
+            document.getElementById('resultado').innerText = mensagemFinal;
+            // Limpa a mensagem do localStorage para que não apareça novamente
+            localStorage.removeItem('mensagemFinal');
+        }
+    </script>
 </body>
-<script>
-    // Aqui você pode adicionar o resultado do final
-    const resultado = localStorage.getItem('resultadoFinal');
-    document.getElementById('resultado').innerText = resultado;
-</script>
 </html>
